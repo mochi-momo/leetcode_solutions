@@ -1,3 +1,9 @@
+"""LinkedIn: https://www.linkedin.com/in/mochi-momo/
+github: https://github.com/mochi-momo
+YouTube: https://www.youtube.com/channel/UCn2K...
+email: emailtomohitsingh@gmail.com
+Instagram: @mohit_was_here
+"""
 ### Simple Solution
 class Solution:
     def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:

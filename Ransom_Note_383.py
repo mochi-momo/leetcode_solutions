@@ -1,4 +1,4 @@
-#Solve with Counter
+### Solve with Counter Method (Dictionary)
 from collections import Counter
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
@@ -11,7 +11,7 @@ class Solution:
         
         return True
 
-#Solve with list
+### Solve with list
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         mag = list(magazine)

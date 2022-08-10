@@ -1,3 +1,10 @@
+"""
+LinkedIn: https://www.linkedin.com/in/mochi-momo/
+github: https://github.com/mochi-momo
+YouTube: https://www.youtube.com/channel/UCn2KHtlnvJNd3oRqH7tMjkg
+email: emailtomohitsingh@gmail.com
+Instagram: @mohit_was_here
+"""
 class Solution:
     def romanToInt(self, s: str) -> int:
         numerals = {"I":1, "V":5, "X":10, "L":50, "C":100, "D":500, "M":1000} # dictionary with values
